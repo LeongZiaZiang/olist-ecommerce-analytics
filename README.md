@@ -33,6 +33,9 @@ Analyze e-commerce sales performance and build executive dashboard tracking:
 - Power BI dashboard
 
 ## Key Metrics
+- Review score
+
+- Late deliveries
 
 - GMV = SUM(order_value)
 
@@ -47,4 +50,9 @@ Analyze e-commerce sales performance and build executive dashboard tracking:
 
 ## Business Insights
 - GMV demonstrates seasonality, with significant spikes especially during the Winter.
-- AOV showed low volatility and maintained an average of 150 after the year 2017.
+- AOV showed low volatility and maintained an average of 150 after the year 2017.  
+
+## Recommendations
+- Increase marketing spend during Autumn and Winter.
+- Focus retention strategy on high-AOV customers.
+- Promote high-margin categories to increase GMV.
