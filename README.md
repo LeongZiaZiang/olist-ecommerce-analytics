@@ -57,6 +57,6 @@ Analyze e-commerce sales performance and build executive dashboard tracking:
 - Focus retention strategy on high-AOV customers.
 - Promote high-margin categories to increase GMV.
 
-## To do
-- Try out different models such as adaboost, gradient boost, XGboost.
+## To do/improve
+- Try out different ensemble methods such as adaboost, gradient boost, XGboost.
 - Create pipeline
